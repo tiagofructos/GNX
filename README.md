@@ -1,6 +1,8 @@
 <h1 align="center">GNX</h1>
 
-O GNX nasceu da ideia de simplificar a vida que quem tem um Nintendo Switch modificado. Como você mesmo pode notar pelo README, a cena do switch é extremamente fragmentada e composta por vários __Devs__ diferentes que possuem seus respectivos projetos, com isso, fica meio inviável para um iniciante saber oque baixar e como configurar tudo. Por isso o grandiosíssimo [Goma1337](https://github.com/Goma1337) criou um pacote AIO (All in One) com tudo que você precisa para usar no seu Switch.
+For details about how to properly setup GNX, check [English Guide](English.md).
+
+O GNX nasceu da ideia de simplificar a vida que quem tem um Nintendo Switch modificado. Como você mesmo pode notar pelo README, a cena do switch é extremamente fragmentada e composta por vários **Devs** diferentes que possuem seus respectivos projetos, com isso, fica meio inviável para um iniciante saber oque baixar e como configurar tudo. Por isso o grandiosíssimo [Goma1337](https://github.com/Goma1337) criou um pacote AIO (All in One) com tudo que você precisa para usar no seu Switch.
 
 <div align="center">
 <img src="./Images/background.png" alight-itens="center">
@@ -12,6 +14,8 @@ O GNX nasceu da ideia de simplificar a vida que quem tem um Nintendo Switch modi
 [![GitHub repo size](https://img.shields.io/github/repo-size/vncsmnl/GNX)](https://github.com/vncsmnl/GNX/find/main)
 [![GitHub issues](https://img.shields.io/github/issues/vncsmnl/GNX)](https://github.com/vncsmnl/GNX/issues)
 [![License](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
+
+## **[FAÇA O DOWNLOAD POR AQUI!](https://github.com/vncsmnl/GNX/releases)**
 
 ## 1) **🚦 BOOTLOADER:**
 
