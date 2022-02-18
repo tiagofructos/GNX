@@ -8,8 +8,7 @@ O GNX nasceu da ideia de simplificar a vida que quem tem um Nintendo Switch modi
 <img src="./Images/background.png" alight-itens="center">
 </div>
 
-[![Discord](https://img.shields.io/discord/643436008452521984.svg?logo=discord&logoColor=white&label=Discord&color=7289DA
-)](https://discordapp.com/invite/8uhDqyx)
+[![Discord](https://img.shields.io/discord/570641761937129484?color=%235662f6&label=Discord&logo=Discord&logoColor=%23FFF)](https://discordapp.com/invite/8uhDqyx)
 [![GitHub contributors](https://img.shields.io/github/contributors/vncsmnl/GNX)](https://github.com/vncsmnl/GNX/graphs/contributors)
 [![GitHub All Releases](https://img.shields.io/github/downloads/vncsmnl/GNX/total)](https://github.com/vncsmnl/GNX/releases)
 [![Latest release](https://img.shields.io/github/v/release/vncsmnl/GNX)](https://github.com/vncsmnl/GNX/releases)
