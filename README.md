@@ -1,5 +1,5 @@
 <h1 align="center">GNX</h1>
-<p align="center">O GNX nasceu da ideia de simplificar a vida que quem tem um Nintendo Switch modificado. Como você mesmo pode notar pelo README, a cena do switch é extremamente fragmentada e composta por vários __Devs__ diferentes que possuem seus respectivos projetos, com isso, fica meio inviável para um iniciante saber oque baixar e como configurar tudo. Por isso o grandiosíssimo @Goma1337 criou um pacote AIO (All in One) com tudo que você precisa para usar no seu Switch. </p>
+<p>O GNX nasceu da ideia de simplificar a vida que quem tem um Nintendo Switch modificado. Como você mesmo pode notar pelo README, a cena do switch é extremamente fragmentada e composta por vários __Devs__ diferentes que possuem seus respectivos projetos, com isso, fica meio inviável para um iniciante saber oque baixar e como configurar tudo. Por isso o grandiosíssimo @Goma1337 criou um pacote AIO (All in One) com tudo que você precisa para usar no seu Switch. </p>
 
 <div align="center">
 <img src="./Images/background.png" alight-itens="center">
@@ -56,7 +56,7 @@
 
 ## 4) **💡 MÓDULOS DE SISTEMA PARA O ATMOSPHÈRE**
 
-    podem ser habilitados ou desabilitados pelo homebrew Hekate Toolbox ou pelo Tesla Menu (L + D-pad para Baixo + R3):
+Podem ser habilitados ou desabilitados pelo homebrew Hekate Toolbox ou pelo Tesla Menu (L + D-pad para Baixo + R3):
 
 - [Emuiibo](https://github.com/XorTroll/emuiibo/releases): Módulo capaz de emular amiibos. Os amiibos já são inclusos no pacote, mas podem ser gerados no pelo Emutool, também incluso. Depois de habilitado o módulo, escolha o amiibo pelo Tesla Menu (L + D-pad para Baixo + R3).
 
