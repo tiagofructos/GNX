@@ -1,0 +1,36 @@
+[VERSÃO 13.2.1-01] [2022.01.20]
+
+- Atmosphère atualizado para a versão 1.2.6;
+- Sigpatches devidamente atualizadas;
+- Hekate atualizado para a versão 5.7.0;
+- Mission Control atualizado.
+
+[VERSÃO 13.2.0-05] [2021.12.15]
+
+- switch-cheats-updater substituído pelo aio-switch-updater.
+
+Versão 13.2.0-04 [2021.12.13]
+
+- prodinfo_gen atualizado.
+
+Versão 13.2.0-03 [2021.12.04]
+
+- ldn_mitm atualizado.
+
+Versão 13.2.0-02 [2021.12.01]
+
+- Mission Control atualizado.
+
+Versão 13.2.0-01 [2021.11.30]
+
+- Atmosphère atualizado para a versão 1.2.5 com suporte a 13.2.0, bem como as sigpatches;
+
+- MUITAS coisas redundantes removidas do pacote. A ideia é deixar apenas as ferramentas importantes / essenciais. Não vou listá-las uma a uma, mas se algo que você usava saiu do pacote, possivelmente ainda existe uma alternativa nele que faz a mesma coisa. Checkpoint -> JKSV, Nut -> DBI e assim por diante. Lembrando que tudo pode ser baixado pelo Homebrew App Store.
+
+Versão 13.1.0-12 [2021.11.27]
+
+- Sys-BotBase atualizado para a versão 2.0
+
+Versão 13.1.0-10 [2021.11.19]
+
+- Mission Control atualizado para a bui
