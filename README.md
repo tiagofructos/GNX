@@ -1,5 +1,6 @@
 <h1 align="center">GNX</h1>
-<p>O GNX nasceu da ideia de simplificar a vida que quem tem um Nintendo Switch modificado. Como você mesmo pode notar pelo README, a cena do switch é extremamente fragmentada e composta por vários __Devs__ diferentes que possuem seus respectivos projetos, com isso, fica meio inviável para um iniciante saber oque baixar e como configurar tudo. Por isso o grandiosíssimo @Goma1337 criou um pacote AIO (All in One) com tudo que você precisa para usar no seu Switch. </p>
+
+O GNX nasceu da ideia de simplificar a vida que quem tem um Nintendo Switch modificado. Como você mesmo pode notar pelo README, a cena do switch é extremamente fragmentada e composta por vários __Devs__ diferentes que possuem seus respectivos projetos, com isso, fica meio inviável para um iniciante saber oque baixar e como configurar tudo. Por isso o grandiosíssimo [Goma1337](https://github.com/Goma1337)criou um pacote AIO (All in One) com tudo que você precisa para usar no seu Switch.
 
 <div align="center">
 <img src="./Images/background.png" alight-itens="center">
@@ -128,4 +129,4 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
 ![License](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
-The Nintendo Switch names and logos are @Nintendo. This repository is in no way affiliated with @Nintendo or any of its partners.
+The Nintendo Switch names and logos are [Nintendo](https://github.com/Nintendo). This repository is in no way affiliated with [Nintendo](https://github.com/Nintendo) or any of its partners.
